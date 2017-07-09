@@ -1,0 +1,43 @@
+limite massimo di velocità 20 km/h
+limite massimo di velocità 30 km/h
+limite massimo di velocità 50 km/h
+limite massimo di velocità 60 km/h
+limite massimo di velocità 70 km/h
+limite massimo di velocità 80 km/h
+fine limite massimo di velocità 80 km/h
+limite massimo di velocità 100 km/h
+limite massimo di velocità 120 km/h
+divieto di sorpasso
+divieto di sorpasso per i veicoli di massa a pieno carico superiore a 3,5t
+intersezione con diritto di precedenza
+diritto di precedenza
+dare precedenza
+fermarsi e dare precedenza -  STOP
+divieto di transito
+transito vietato ai veicoli di massa a pieno carico superiore a 3,5t
+senso vietato
+altri pericoli
+curva a sinistra
+curva a destra
+doppia curva, la prima a sinistra
+strada deformata
+strada strucciolevole
+strettoia asimmetrica a destra
+lavori
+semaforo
+attraversamento pedonale
+bambini
+attraversamento ciclabile
+neve
+animali selvatici vaganti
+via libera
+preavviso di direzione obbligatoria a destra
+preavviso di direzione obbligatoria a sinistra
+direzione obbligatoria dritto
+direzioni consentite dritto e destra
+direzioni consentite dritto e sinistra
+passaggio obbligatorio a destra
+passaggio obbligatorio a sinistra
+rotatoria
+fine del divieto di sorpasso
+divieto di sorpasso per i veicoli di massa a pieno carico superiore a 3,5t
