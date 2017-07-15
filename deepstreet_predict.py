@@ -110,8 +110,7 @@ def main():
     else:  # channel_last
         shape_ord = (img_rows, img_cols, 3)
 
-    #load pre-trained VGG16 with ImageNet weights
-    vgg16_model = vgg16.VGG16(weights='imagenet', include_top=False, input_tensor=Input(shape_ord))
+    vgg16_model = vgg16.VGG16(weights='None', include_top=False, input_tensor=Input(shape_ord))
     vgg16_model.summary()
 
     #add last fully-connected layers
