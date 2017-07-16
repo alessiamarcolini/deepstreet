@@ -1,6 +1,6 @@
 import os
 
-images = os.listdir("dataset/train/")
+images = os.listdir("../dataset/train/")
 
 classes = {}
 
