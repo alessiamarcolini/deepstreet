@@ -7,7 +7,7 @@ This project aims to provide a system able to recognize the type of a street sig
 
 - Written in Python
 - Keras as a main library for Deep Learning, with Numpy and OpenCV
-- Pre-trained weights available
+- Trained weights available
 
 
 ## Getting Started
