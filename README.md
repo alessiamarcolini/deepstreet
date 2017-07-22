@@ -26,7 +26,7 @@ Optional, but recommended:
 - **NVIDIA cuDNN** if you have NVIDIA GPUs on your machine.
     [https://developer.nvidia.com/rdp/cudnn-download]()
 
-
+#
 The easiest way to get (most) these is to use an all-in-one installer such as [Anaconda](http://www.continuum.io/downloads) from Continuum. This is available for multiple architectures.
 
 ### Running scripts
@@ -44,6 +44,7 @@ python deepstreet_training.py --help
 ## Contributing Guidelines
 
 All contributions and suggestions are welcome!
+
 For suggested improvements, please create an issue.
 
 
