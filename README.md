@@ -42,6 +42,27 @@ The two main scripts (`deepstreet_training.py` and `deepstreet_predict.py`) can 
 python deepstreet_training.py --help
 ```
 
+```shell
+Using TensorFlow backend.
+usage: deepstreet_training.py [-h] [--gpu GPU] [--epochs EPOCHS]
+                              [--output_dir OUTPUT_DIR]
+                              [--input_dir INPUT_DIR] [--debug DEBUG]
+
+Run a training experiment using pretrained VGG16, specified on the deepstreet
+DataSet.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --gpu GPU             GPU Device (default: 0)
+  --epochs EPOCHS       Number of Epochs during training (default: 10)
+  --output_dir OUTPUT_DIR
+                        Output directory
+  --input_dir INPUT_DIR
+                        Input directory
+  --debug DEBUG         Debug mode
+
+  ```
+
 
 ## Contributing Guidelines
 
