@@ -73,4 +73,4 @@ For suggested improvements, please create an issue.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/alessiamarcolini/deepstreet/blob/master/LICENSE.txt) file for details
+This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/alessiamarcolini/deepstreet/blob/master/LICENSE.txt) file for details.
