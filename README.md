@@ -30,6 +30,9 @@ Optional, but recommended:
 
 The easiest way to get (most) these is to use an all-in-one installer such as [Anaconda](http://www.continuum.io/downloads) from Continuum. This is available for multiple architectures.
 
+### Dataset
+Download the **German Traffic Sign Recognition Benchmark (GTSRB)** from https://benchmark.ini.rub.de/
+
 ### Running scripts
 To run the scripts, just download this repo and execute:
 ```shell
